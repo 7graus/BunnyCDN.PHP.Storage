@@ -1,0 +1,21 @@
+{
+    "name": "7graus/bunnycdn-storage",
+    "description": "Fork from the official PHP library used for interacting with the BunnyCDN Storage API.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dejan Grofelnik Pelzel",
+            "email": "hello@bunnycdn.com"
+        },
+        {
+            "name": "Fábio Viana",
+            "email": "me@fabioviana.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "files": ["bunnycdn-storage.php"]
+    }
+}
