@@ -1,6 +1,12 @@
 # BunnyCDN.PHP.Storage
 The official PHP library used for interacting with the BunnyCDN Storage API.
 
+### How to install:
+
+```
+composer require 7graus/bunnycdn-storage:dev-master
+```
+
 ### How to use:
 
 The storage library is very simple to use. First, create the basic BunnyCDNStorage object with the authentication details. It's the basic object for interaction with the API.
